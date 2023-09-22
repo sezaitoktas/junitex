@@ -1,0 +1,3 @@
+Ornekte bir userService sinifi ve bu sinifi test etmek icin bir UserManger sinifi kullanacagiz,
+Userservice sinifi test ederken UserManager in gerecek bir ornegini kullanmak yerine bu bahimliligi mock(sahte)
+bir nesneyle degistirecegiz.
